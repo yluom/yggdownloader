@@ -19,6 +19,6 @@
   "permissions": [
     "downloads",
     "tabs",
-    "http://*.t411.io/*"
+    "http://*.t411.in/*"
   ]
 }
