@@ -10,7 +10,7 @@ T411Downloader = function() {};
  */
 T411Downloader.prototype.start = function(tab) {
   chrome.tabs.query({
-    url: 'http://*.t411.io/*'}, this.onTabsAvailable.bind(this));
+    url: 'http://*.t411.in/*'}, this.onTabsAvailable.bind(this));
 };
 
 
