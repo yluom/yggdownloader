@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   "name": "T411 Downloader",
-  "version": "0.3",
-  "description": "Eases downloads from the t411.io sharing site.",
+  "version": "0.4",
+  "description": "Eases downloads from the t411 sharing site.",
   "background": {
     "page": "background.html"
   },
@@ -19,6 +19,6 @@
   "permissions": [
     "downloads",
     "tabs",
-    "http://*.t411.in/*"
+    "http://*.t411.ch/*"
   ]
 }
