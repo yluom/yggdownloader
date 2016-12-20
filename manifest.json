@@ -19,6 +19,6 @@
   "permissions": [
     "downloads",
     "tabs",
-    "http://*.t411.ch/*"
+    "http://*.t411.li/*"
   ]
 }
