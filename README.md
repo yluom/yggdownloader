@@ -1,6 +1,4 @@
-# yggtorrent downloader 
-
-Feedback and patches welcome :-) !
+# YGGTorrent downloader 
 
 This Extension eases downloading torrents of yggtorrent tabs.
 
@@ -9,4 +7,7 @@ It's realy simple:
 - Click on the extension, it will download all the .torrent files from your opened tabs
 - Downloaded tabs will close
 
-# T411 Downloader Legacy of Manu Cornet https://chrome.google.com/webstore/detail/t411-downloader/kamimokfbnjphkecojmcfecooeioeeda 
+# Feedback and patches welcome :-) !
+
+## YGGTorrent downloader is T411 Downloader fork/legacy of Manu Cornet
+ Old extension (outdated) : https://chrome.google.com/webstore/detail/t411-downloader/kamimokfbnjphkecojmcfecooeioeeda 
