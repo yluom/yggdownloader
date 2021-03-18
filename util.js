@@ -1,2 +1,2 @@
-T411Utils = function() {};
+YGGUtils = function() {};
 

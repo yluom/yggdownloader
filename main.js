@@ -1,4 +1,4 @@
-var t411Downloader = new T411Downloader();
+var yggDownloader = new YGGDownloader();
 
-chrome.browserAction.onClicked.addListener(t411Downloader.start.bind(t411Downloader));
+chrome.browserAction.onClicked.addListener(yggDownloader.start.bind(yggDownloader));
 
