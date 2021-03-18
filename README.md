@@ -10,4 +10,5 @@ It's realy simple:
 # Feedback and patches welcome :-) !
 
 ## YGGTorrent downloader is T411 Downloader fork/legacy of Manu Cornet
- Old extension (outdated) : https://chrome.google.com/webstore/detail/t411-downloader/kamimokfbnjphkecojmcfecooeioeeda 
+Old extension (outdated) : https://chrome.google.com/webstore/detail/t411-downloader/kamimokfbnjphkecojmcfecooeioeeda 
+Manu Cornet : https://github.com/lmanul
